@@ -1,0 +1,24 @@
+.formContainer {
+    background-color: rgb(228, 228, 228);
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.inputStyle {
+    margin: 10px;
+    padding: 10px;
+    border: solid 1px rgb(228, 228, 228);
+    border-radius: 5px;
+}
+
+.btnStyle {
+    background-color: cornflowerblue;
+    padding: 10px;
+    border: none;
+    color: white
+    
+}
